@@ -1,4 +1,5 @@
 # Miscu_Bianca_ProiectPOO
+//Domeniul- Ambulanta, Obiecte- Angajat, Pacient, Aparatura
 #include <iostream>
 using namespace std;
 class Personal {
